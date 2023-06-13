@@ -6,7 +6,7 @@ plan: free
 repo: https://github.com/itterate/2023-backend-firstLecture.git
 region: frankfurt
 branch: main
-- envVars:
+ envVars:
     - key: MONGO_URL
     sync: false
 buildFilter:
